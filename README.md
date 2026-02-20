@@ -4,3 +4,5 @@ Notebooks for the Data Mining projects, using Spotify datasets given to us by th
 "dataset" contains the files for DM2 (time series and tabular inbalanced data).
 
 A file is missing (dist_mat_paa.npy) because it is too large for uploading (it contains the distance between time series after the PAA approximation).
+
+I put these together from separate files, so something might be broken or missing (NEEDS CLEANING).
